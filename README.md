@@ -1,8 +1,22 @@
-# React + Vite
+# Career.io - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Key Features
 
-Currently, two official plugins are available:
+- React
+- Redux
+- Custom Hooks
+- Reusable Components
+- Industry Standard Folder Structure
+- Responsive Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Link
+
+- [Video Link](https://drive.google.com/file/d/1jbral3H9n-dTiWIjGK9b0nOQ4_mHgFzd/view?usp=drive_link)
+
+## Author-Contact
+
+- [Ajinkya-Github](https://github.com/AjinkyaVeer007)
+
+- [Ajinkya-LinkedIn](https://www.linkedin.com/in/ajinkya-veer-0ba100238/)
+
+- [Ajinkya-Findcoder](https://www.findcoder.io/u/ajinkya_veer)
